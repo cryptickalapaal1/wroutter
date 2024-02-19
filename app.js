@@ -5,5 +5,5 @@ app.get('/', (req, res)=> {
     res.send("Seeking truths beyond meaning of life, you will find 43")
 });
 app.listen(PORT, ()=> {
-    console.log(`Palvelinta ajetaan osoitteesta http://localhost:${port}`)
+    console.log(`Palvelinta ajetaan osoitteesta http://localhost:${PORT}`)
 });
