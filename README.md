@@ -5,7 +5,7 @@ Tässä on kattavat ohjeet XXXXXXXX-sovelluksen käyttöönotosta, konfiguroinni
 **Vaaditut työkalut:**
 Render-palvelin.. 
 Koodinkäsittelyohjelma
-Git
+Git..
 
 **Sovelluksen rakenne:**
 node, js 
