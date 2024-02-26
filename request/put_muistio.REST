@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/notes/<muistionID> HTTP/1.1
+content-type: application/json
+
+{
+"title": "Päivitetty otsikko",
+"content": "Päivitetty sisältö"
+}
