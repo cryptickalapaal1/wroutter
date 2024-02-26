@@ -11,8 +11,7 @@ Git... (github myös)
 node.js-integraatio, render -pilvipalvelun käyttö
 
 **Projektin alustaminen:**
-
-## 2. Sovelluksen konfigurointi
+tee käyttäjä githubiin, renderiin ja asenna jokin koodinkäsittelyohjelma (esim. visual studio code)
 
 **Sovelluksen paikallinen kehittäminen:**
 Visual studio code eli koodinkäsittelyohjelmassa
@@ -20,7 +19,6 @@ Visual studio code eli koodinkäsittelyohjelmassa
 **Palvelimen paikallinen käynnistäminen:**
 Visual studion terminaalissa, NPM start - komennon ja enter -näppäimen polkaisu
 ## 3. Sovelluksen käyttöönotto
-
 
 **Fly.io:n tai Renderin valmistelu:**
 käyttäjän tekeminen ja maksutietojen syöttäminen
@@ -30,10 +28,10 @@ sovellus julkaistaan render -pilvipalvelussa tai fly.io -pilvipalvelussa
 ## 4. Sovelluksen ylläpito ja päivitykset
 
 **Sovelluksen seuranta ja lokit:**
-sovellusta seurataan problems- ja output- ikkunoista koodinkäsittelyohjelmassa
+sovellusta seurataan problems- ja output- ikkunoista koodinkäsittelyohjelmassa sekä render -pilvipalvelussa selaimen kautta Logs -välilehdeltä
 **Päivitykset ja muutokset:**
 Git commit -komennolla saadaan työnnettyä sovellutukseen tehdyt muutokset, github repositorioon eli github säilytyspaikkaan
 
 ## 5. Varotoimet ja vianmääritys
 
- Vikojen syyt näkyvät problems -ikkunasta koodinkäsittelyohjelmassa
+ Viat ja niiden syyt näkyvät problems -ikkunasta koodinkäsittelyohjelmassa
